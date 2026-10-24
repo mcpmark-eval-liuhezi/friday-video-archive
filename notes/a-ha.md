@@ -1,0 +1,3 @@
+Take On Me earned its spot in the rotation because its pencil-sketch animation and soaring falsetto chorus make it one of the most instantly recognisable videos of the MTV era.
+
+Transcript status: could not be retrieved. The transcript service rejected the request for https://www.youtube.com/watch?v=djV11Xbc914 with an IP-level block ("Could not retrieve a transcript for the video... YouTube is blocking requests from your IP"), and the same failure occurred on retry and with the short https://youtu.be/djV11Xbc914 link. No transcript lines are listed here, because none could be retrieved and none were invented as a substitute.
