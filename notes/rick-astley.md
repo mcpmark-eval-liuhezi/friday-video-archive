@@ -1,0 +1,3 @@
+Never Gonna Give You Up earned its spot in the rotation because it is the internet's original surprise anthem and never fails to get the whole team smiling before stand-up.
+
+Transcript status: could not be retrieved. The transcript service rejected the request for https://www.youtube.com/watch?v=dQw4w9WgXcQ with an IP-level block ("Could not retrieve a transcript for the video... YouTube is blocking requests from your IP"), and the same failure occurred on retry and with the short https://youtu.be/dQw4w9WgXcQ link. No transcript lines are listed here, because none could be retrieved and none were invented as a substitute.
