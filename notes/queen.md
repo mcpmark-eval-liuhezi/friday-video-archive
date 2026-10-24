@@ -1,0 +1,3 @@
+Bohemian Rhapsody earned its spot in the rotation because it is a six-minute operatic epic that everyone in the room still knows by heart, and its promotional video essentially invented the modern music video format.
+
+Transcript status: could not be retrieved. The transcript service rejected the request for https://www.youtube.com/watch?v=fJ9rUzIMcZQ with an IP-level block ("Could not retrieve a transcript for the video... YouTube is blocking requests from your IP"), and the same failure occurred on retry and with the short https://youtu.be/fJ9rUzIMcZQ link. No transcript lines are listed here, because none could be retrieved and none were invented as a substitute.
